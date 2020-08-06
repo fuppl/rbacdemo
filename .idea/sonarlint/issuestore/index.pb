@@ -7,8 +7,6 @@ d
 user/pom.xml,c\d\cdfe2e323fad8b1bcfe52f68e21783f120cd711e
 g
 7user/src/main/java/com/example/user/dao/UserMapper.java,d\3\d3f52335215e591fb842d7925844a2ab4f9676b9
-W
-'user/src/test/java/UserServiceTest.java,a\9\a92e9b47424bdff6182c5c0bfa6ae492652f29b7
 u
 Euser/src/main/java/com/example/user/service/impl/UserServiceImpl.java,a\e\ae3cfdb870f00635da87a88d1d9963e2bcb7c2e8
 l

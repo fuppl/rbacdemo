@@ -7,10 +7,10 @@ spring:
 
 mybatis:
   # model的包
-  type-aliases-package: com.example.user.entity
+  type-aliases-package: com.example.role.entity
   mapper-locations: classpath:mybatis/*.xml
   configuration:
     map-underscore-to-camel-case: true
 
 server:
-  port: 10001
+  port: 10002
